@@ -25,14 +25,6 @@ Research Experience
 - **Research Intern** (June 2024 - September 2024), Tencent WXG (advised by Zifei Shan)
 - **Research Intern** (June 2023 - December 2023), Shanghai AI Lab (advised by Prof. Yu Cheng)
 
-Skills
-======
-- Natural Language Processing (NLP)
-- Machine Learning
-- Large Language Models (LLMs)
-- Vision-Language Models (VLMs)
-- Reinforcement Learning
-
 Awards
 ======
 - Zhiyuan Honor Scholarship at Shanghai Jiao Tong University
