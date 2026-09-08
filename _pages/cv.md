@@ -22,6 +22,14 @@ Research Experience
 * Research Intern, Shanghai AI Lab (June 2023 - December 2023)
   * Advisor: Prof. Yu Cheng
 
+Skills
+======
+* Natural Language Processing (NLP)
+* Machine Learning
+* Large Language Models (LLMs)
+* Vision-Language Models (VLMs)
+* Reinforcement Learning
+
 Awards
 ======
 * Zhiyuan Honor Scholarship, Shanghai Jiao Tong University
