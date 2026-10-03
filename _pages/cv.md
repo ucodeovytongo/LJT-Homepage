@@ -1,64 +1,36 @@
 ---
-layout: archive
 title: "CV"
 permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
 ---
 
-{% include base_path %}
+## Curriculum Vitae
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+### Personal Information
+- **Name**: LJT
+- **Email**: ljt@mit.edu
+- **GitHub**: [github.com/LJT](https://github.com/LJT)
+- **LinkedIn**: [linkedin.com/in/ljt](https://linkedin.com/in/ljt)
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+### Education
+- **PhD in Computer Science**, Massachusetts Institute of Technology (MIT), 2020 - 2025
+- **Bachelor of Science in Computer Science**, Stanford University, 2016 - 2020
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+### Research Experience
+- **Graduate Research Assistant**, MIT Computer Science and Artificial Intelligence Laboratory (CSAIL), 2022 - 2025
+- **Research Intern**, Google Brain, Summer 2024
+- **Undergraduate Research Assistant**, Stanford NLP Group, 2018 - 2020
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+### Publications
+1. **"Fairness in Large Language Models: A Survey"** - ACL 2024
+2. **"Efficient Fine-tuning for Low-Resource Languages"** - EMNLP 2023
+3. **"Privacy-Preserving Distributed Training for NLP Models"** - ICML 2022
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+### Technical Skills
+- Programming: Python, C++, Java, JavaScript
+- Frameworks: PyTorch, TensorFlow, JAX, Hugging Face Transformers
+- Domains: Natural Language Processing (NLP), Machine Learning, Computer Vision, Statistical Modeling, Distributed Systems
+- Tools: Git, Docker, Kubernetes, AWS, GCP
+
+### Teaching Experience
+- **Teaching Assistant**, MIT 6.036 (Introduction to Machine Learning), 2023
+- **Teaching Assistant**, Stanford CS224N (Natural Language Processing with Deep Learning), 2020
